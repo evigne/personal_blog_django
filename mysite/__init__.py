@@ -1,0 +1,1 @@
+#C:\Users\Hope\AppData\Local\Programs\Python\Python36-32
